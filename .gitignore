@@ -1,0 +1,14 @@
+# Frontend Next.js ignores
+llaio-app/node_modules/
+llaio-app/.next/
+llaio-app/out/
+
+# Backend Python ignores
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/.pytest_cache/
+
+# General ignores
+.DS_Store
+*.log
